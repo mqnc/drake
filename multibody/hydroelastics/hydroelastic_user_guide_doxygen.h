@@ -335,8 +335,8 @@ and the following equivalent URDF example:
         <drake:proximity_properties>
           <drake:compliant_hydroelastic/>
           <drake:mesh_resolution_hint value="0.1"/>
-          <drake:hydroelastic_modulus value="5e7/>
-          <drake:hunt_crossley_dissipation value="1.25/>
+          <drake:hydroelastic_modulus value="5e7"/>
+          <drake:hunt_crossley_dissipation value="1.25"/>
         </drake:proximity_properties>
       </collision>
     …
